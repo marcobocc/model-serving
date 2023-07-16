@@ -1,0 +1,6 @@
+/logs
+/model_store
+/models
+/venv
+.DS_Store
+.idea/
